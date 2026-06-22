@@ -1620,15 +1620,15 @@ But ES6 needs a bit more set-up to be used as a module. See the [Node docs on Mo
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DragonSenses/job-tracker.git"
+    "url": "git+https://github.com/Sambhav10-10/job-tracker.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DragonSenses/job-tracker/issues"
+    "url": "https://github.com/Sambhav10-10/job-tracker/issues"
   },
-  "homepage": "https://github.com/DragonSenses/job-tracker#readme"
+  "homepage": "https://github.com/Sambhav10-10/job-tracker/issues"
 }
 ```
 
@@ -1647,15 +1647,15 @@ Right after the `main` line, add this line: `"type":"module",`
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DragonSenses/job-tracker.git"
+    "url": "git+https://github.com/Sambhav10-10/job-tracker.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DragonSenses/job-tracker/issues"
+    "url": "https://github.com/Sambhav10-10/job-tracker/issues"
   },
-  "homepage": "https://github.com/DragonSenses/job-tracker#readme"
+  "homepage": "https://github.com/Sambhav10-10/job-tracker#readme"
 }
 ```
 
@@ -14973,7 +14973,7 @@ To host our full-stack app, we should make it a Web Service. Make an account, li
 
 Create New Web Service, and connect your GitHub repository.
 
-- Going to give it a unique name of `dragons-job-tracker`.
+- Going to give it a unique name of `sambhav-job-tracker`.
 - Region where web service runs, Oregon (US West).
 - The build command is `npm run setup-production`
 - The start command is `npm run start`

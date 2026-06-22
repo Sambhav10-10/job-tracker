@@ -16,15 +16,15 @@
 },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DragonSenses/job-tracker.git"
+    "url": "git+https://github.com/Sambhav10-10/job-tracker.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DragonSenses/job-tracker/issues"
+    "url": "https://github.com/Sambhav10-10/job-tracker/issues"
   },
-  "homepage": "https://github.com/DragonSenses/job-tracker#readme",
+  "homepage": "https://github.com/Sambhav10-10/job-tracker#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cookie-parser": "^1.4.6",

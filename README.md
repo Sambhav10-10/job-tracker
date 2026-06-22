@@ -16,7 +16,7 @@ A full-stack **MERN** application for managing job applications, featuring secur
 
 # Live Demo
 
-[Job Tracker - Live Demo](https://dragons-job-tracker.onrender.com)
+[Job Tracker - Live Demo](https://job-tracker-6lxp.onrender.com)
 
 You can log-in with a test account:
 
